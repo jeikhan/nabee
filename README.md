@@ -1,2 +1,2 @@
 # JeiParser
-Web application for parsing exchange data.
+Web application for parsing data.
