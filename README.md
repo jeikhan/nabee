@@ -1,2 +1,2 @@
-# JeiParser
-Web application for parsing data.
+# Эрудит
+Сайт для размещения портфолио молодых талантов.
